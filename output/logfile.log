@@ -1,0 +1,6 @@
+INFO 2022-04-11 03:08:12,232 - Logging initialized.
+INFO 2022-04-11 03:08:12,441 - Image loading succeeded.
+INFO 2022-04-11 03:08:12,421 - Conversion of color to gray scale image succeeded.
+INFO 2022-04-11 03:08:12,425 - Image thresholding succeeded.
+INFO 2022-04-11 03:08:13,532 - Total number of regions after connected component analysis using a Queue = 49
+INFO 2022-04-11 03:08:13,642 - Total number of blobs after filtering using size threshold of 15 = 5
